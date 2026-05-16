@@ -1,5 +1,5 @@
 ## CSS Modules 
-# Main Advantage (Most Impor
+# Main Advantage (Most Important)
 
 CSS Modules provide locally scoped CSS, avoiding style conflicts automatically.
 
