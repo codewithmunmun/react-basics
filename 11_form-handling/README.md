@@ -48,3 +48,9 @@ means:
 "Stop the browser’s default form submission behavior."
 
 ---
+
+# 📸 Screenshot
+
+![Screenshot](./src/assets/form-handling.png)
+
+---
