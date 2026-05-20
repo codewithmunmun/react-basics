@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Helvetica Neue';
+  background-color: black;
+}
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
+
+button{
+  background-color: gray;
+  padding: 10px 20px;
+  margin: 10px;
+  border-radius: 5px;
+}
+
+h1{
+  margin: 10px;
+  padding: 10px 130px;
+  background-color: gainsboro;
+  width: fit-content;
+  font-size: 100px;
+  border-radius: 5px;
+}
