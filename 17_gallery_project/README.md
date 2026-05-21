@@ -146,7 +146,6 @@ Responsible for:
 
 ### Gallery UI - Page 1
 ![Screenshot1](./src/assets/Gallery_UI_page2.png)
-```
 
 ---
 
