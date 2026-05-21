@@ -225,6 +225,19 @@ Value of B is changed
 
 ---
 
+## Screenshots
+
+# Before Changing Screenshot
+![Before_Changing_Screenshot](./src/assets/before_changing.png)
+
+# After Changing the value of A Screenshot
+![After_Changing_A_Screenshot](./src/assets/After_changing_value_of_A.png)
+
+# Thenafter Changing the value of B Screenshot
+![Then_Changing_B_Screenshot](./src/assets/Thenafter_changing_value_of_B.png)
+
+---
+
 # Learning Outcome
 
 After completing this project, you will understand:
