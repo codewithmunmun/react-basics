@@ -9,6 +9,7 @@ This project demonstrates:
 - Destructuring concepts in React components
 
 ---
+
 # Screenshot
 
 ![Screenshot](./src/assets/basic_Concept.png)
